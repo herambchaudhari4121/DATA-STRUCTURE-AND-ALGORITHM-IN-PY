@@ -1,4 +1,12 @@
 <h1 align="center">Data-Structures-and-Algorithms-in-PYTHON</h1>
+<!DOCTYPE html>
+<html>
+<body>
+<img src="https://i.ytimg.com/vi/pkYVOmU3MgA/maxresdefault.jpg" alt="W3Schools.com" style="width:504px;height:342px;">
+
+</body>
+</html>
+
 <h2 align ="center">An open source codebase for sharing programming solutions. </h2>
 This is very good piece of coding.
 This repository is in it's development phase and will soon provide you with python code of various data structures and algorithms
